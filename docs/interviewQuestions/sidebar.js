@@ -1,0 +1,30 @@
+module.exports = [
+    {
+        title:'HTML',
+        collapsable:true,
+        children:[
+            '/interviewQuestions/HTML/note'
+        ]
+    },
+    {
+        title:'CSS',
+        collapsable:true,
+        children:[
+            '/interviewQuestions/CSS/note'
+        ]
+    },
+    {
+        title:'JS',
+        collapsable:true,
+        children:[
+            '/interviewQuestions/JS/note'
+        ]
+    },
+    {
+        title:'NodeJS',
+        collapsable:true,
+        children:[
+            '/interviewQuestions/NodeJS/note'
+        ]
+    },
+]

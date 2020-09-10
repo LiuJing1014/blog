@@ -1,0 +1,14 @@
+@keyframes downTo{
+    0% {
+        opacity:1;
+        bottom:20px
+    }
+    50% {
+        opacity: 0.4;
+        bottom: 10px;
+    }
+    100% {
+        opacity: 1;
+        bottom:20px
+    }
+}

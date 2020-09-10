@@ -1,0 +1,18 @@
+    html{
+        scroll-behavior:smooth;
+    }
+
+    /* 滚动条 */
+    ::-webkit-scrollbar-track {
+        background-color: var(--background-color);
+    }
+    ::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+        background-color: var(--theme-color);
+    }
+    ::-webkit-scrollbar-thumb {
+        background-color: var(--theme-color) !important;
+    }
+
+    
