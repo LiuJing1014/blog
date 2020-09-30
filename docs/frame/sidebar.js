@@ -24,6 +24,7 @@ module.exports = [
             '/frame/Element-ui/lantern.md',
             '/frame/Element-ui/addForm.md',
             '/frame/Element-ui/cascade.md',
+            '/frame/Element-ui/tree.md',
         ]
     }
 ]

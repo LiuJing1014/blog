@@ -20,7 +20,8 @@ module.exports = [
             '/basicKnowledge/CSS/ellipsis.md',
             '/basicKnowledge/CSS/variables.md',
             '/basicKnowledge/CSS/z-index.md',
-            '/basicKnowledge/CSS/placeholder.md'
+            '/basicKnowledge/CSS/placeholder.md',
+            '/basicKnowledge/CSS/scroll.md'
         ]
     },
     {
